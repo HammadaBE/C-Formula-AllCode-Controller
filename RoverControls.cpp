@@ -1,11 +1,4 @@
-/*  // ==================================================================== \\
-   ||                                                                        ||
-   ||  Console app to control Formula Allcode robot-rover, model RB4420      ||
-   ||  This is the LIGHT version, without the rover pre-defined commands     ||
-   ||  Date: 5th Feb 2022. © Denis Manolescu, Liverpool Hope University      ||
-   ||                                                                        ||
-    \\ ==================================================================== //
- */
+
 #include "stdafx.h"
 #include "FA_API.h"
 #include <iostream>
